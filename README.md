@@ -21,7 +21,7 @@ Compativel com Lenovo Ideapad S145 10.º Geração Ice Lake com os processadores
 | Wifi + Bluetooth | BCM94360CS2                        |
 | SmBios           | MacBookPro 16,2                    |
 | BootLoader       | OpenCore 0.9.4                     |
-| macOS            | Ventura 13.5.1 / Sonoma Beta 6     |
+| macOS            | Ventura 13.5.1 / Sonoma Beta 7     |
 
 
 ### O que funciona 100%?
@@ -49,7 +49,7 @@ Compativel com Lenovo Ideapad S145 10.º Geração Ice Lake com os processadores
 ## Install
 
 - Before Install, you must change your bios (mandatory) 👉 [BIOS MOD Tutorial](https://www.youtube.com/watch?v=i5AYuSpQNYY&t=0s)
-- [Install Procedures](https://www.youtube.com/watch?v=_fNvIfPxOEA&t=0s)
+- [Install Procedures](https://youtu.be/a0Its5_crG4)
 
 ## Tips
 
